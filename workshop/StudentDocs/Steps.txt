@@ -24,3 +24,4 @@ In VS Code: Open terminal -> open command prompt:
 
 4. Installations(to be done inside virtual environment):
 	pip install python-dotenv google-genai ollama
+    pip install langchain-core
