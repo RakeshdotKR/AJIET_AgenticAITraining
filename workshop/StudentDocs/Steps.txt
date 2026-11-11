@@ -4,9 +4,10 @@ https://github.com/RakeshdotKR/AJIET_AgenticAITraining.git
 *********************************
 Day 1:
 *********************************
-0. Check the Python version:
+0. Check the Python version & ollama Installation:
     Windows: python --version | py --version | python -V
     Mac: python3 --version | python3 -V
+    Windows/Mac: ollama list
 Github Desktop:
 1. Clone Repository using Github Desktop
 2. Open the cloned repository in VS code
