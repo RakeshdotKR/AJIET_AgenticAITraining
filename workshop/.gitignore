@@ -1,0 +1,39 @@
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+.pyenv/
+
+# Environment Variables & Secrets (API Keys)
+.env
+.env.*
+!.env.example
+
+# LangGraph & Local Agent State
+.langgraph_api/
+*.sqlite
+*.sqlite3
+*.db
+
+# Python Bytecode & Build Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebooks & Caching
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# IDEs & OS Files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
