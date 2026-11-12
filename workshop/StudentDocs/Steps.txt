@@ -24,4 +24,16 @@ In VS Code: Open terminal -> open command prompt:
 
 4. Installations(to be done inside virtual environment):
 	pip install python-dotenv google-genai ollama
-    pip install langchain-core
+    pip install langchain-core langchain_ollama
+
+*********************************
+Day 2:
+*********************************
+Let's reuse the virtual environment that we created on Day1.
+Move .venv folder from "Day1" to the parent folder "workshop"
+
+1. Activate the virtual environment:
+	    .venv\Scripts\Activate.bat      	//Win (to be done every day)
+	    source .venv/bin/activate		    //mac (to be done every day)
+    
+
