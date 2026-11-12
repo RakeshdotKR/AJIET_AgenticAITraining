@@ -1,0 +1,43 @@
+Vendor Payment Policy
+Version 1.4 - Effective from 1 February 2026
+Owner: Finance Operations Team
+
+1. PURPOSE
+This policy governs how the company pays its vendors and suppliers. All
+vendor records and amounts in this document are synthetic training data.
+
+2. PAYMENT TERMS
+2.1 Standard payment term is Net-30: payment is due 30 days after a valid
+    invoice is received and accepted.
+2.2 Vendors on strategic contracts may have Net-45 or Net-60 terms as
+    written in the signed contract.
+2.3 Early payment discount: 2% discount is available if payment is made
+    within 10 days of invoice receipt (2/10 Net-30).
+2.4 Payments are released only on Fridays, unless a critical payment is
+    approved by the Finance Head.
+
+3. THREE-WAY MATCH REQUIREMENT
+3.1 Every invoice must match three documents before payment:
+    - Purchase Order (PO) issued by Procurement
+    - Goods Receipt Note (GRN) or service acceptance note
+    - The vendor invoice itself
+3.2 Quantity and unit price on the invoice must not exceed the PO by more
+    than 2%. Anything above 2% is held for review.
+3.3 Invoices without a PO reference are held and returned to the vendor
+    for correction, except for invoices below Rs. 25,000.
+
+4. VENDOR BANK DETAILS
+4.1 Bank account changes must be verified by calling the vendor on a
+    previously known phone number before the next payment run.
+4.2 Payment is made only to the bank account registered in the vendor
+    master; partial payments to third-party accounts are prohibited.
+
+5. DISPUTES AND HOLDS
+5.1 Disputed invoices are placed on hold with a reason code.
+5.2 The vendor is notified within 2 working days of the hold.
+5.3 Held invoices are re-evaluated every week by the Accounts Payable team.
+
+6. LATE PAYMENT
+6.1 If payment is delayed beyond the agreed term, Finance must record the
+    reason in the payment log.
+6.2 Late payment charges above Rs. 10,000 require Finance Head approval.

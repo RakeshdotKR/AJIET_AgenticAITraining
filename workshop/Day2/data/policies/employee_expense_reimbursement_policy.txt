@@ -1,0 +1,47 @@
+Employee Expense Reimbursement Policy
+Version 2.1 - Effective from 1 April 2026
+Owner: Finance Operations Team
+
+1. PURPOSE
+This policy defines how employees claim reimbursement for legitimate business
+expenses incurred while performing company duties. All amounts and records
+referenced in this document are synthetic training data.
+
+2. ELIGIBLE EXPENSES
+2.1 The following expenses are eligible for reimbursement when supported by
+    valid receipts and manager approval:
+    - Domestic and international travel (air, rail, cab)
+    - Hotel accommodation within policy limits
+    - Client meeting meals (up to Rs. 1,500 per person per meal)
+    - Office supplies and stationery purchased for business use
+    - Professional conference fees with prior approval
+    - Local transport for business purposes (auto, metro, cab)
+
+2.2 The following expenses are NOT eligible:
+    - Personal entertainment, alcohol and tobacco
+    - Traffic fines and parking penalties
+    - Expenses incurred after the employee's last working day
+    - Family members' travel unless specifically approved in writing
+    - Upgrade charges on personal convenience
+
+3. CLAIM LIMITS AND THRESHOLDS
+3.1 Receipts are mandatory for every expense of Rs. 500 or more.
+3.2 Expenses below Rs. 500 may be claimed without receipts, but supporting
+    notes (vendor name, date, purpose) are still required.
+3.3 The maximum amount per single reimbursement claim is Rs. 75,000.
+    Larger amounts must be split across multiple claims with justification.
+3.4 Cash advances must be settled within 15 working days of return.
+
+4. SUBMISSION DEADLINES
+4.1 Claims must be submitted within 30 days of the expense date.
+4.2 Claims submitted between 31 and 60 days require Finance Head approval.
+4.3 Claims older than 60 days are rejected automatically.
+
+5. APPROVAL WORKFLOW
+5.1 Employee submits claim with receipts attached.
+5.2 Line manager reviews and approves within 3 working days.
+5.3 Finance team verifies receipts and policy compliance within 5 days.
+5.4 Approved amounts are credited in the next payroll cycle.
+
+6. REVIEW
+This policy is reviewed every six months by the Finance Operations Team.

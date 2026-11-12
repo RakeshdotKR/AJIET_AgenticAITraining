@@ -1,0 +1,12 @@
+{
+  "notes": "Illustrative GST rates used by the FinDesk GST calculator. These are training-only rates.",
+  "rates_percent": {
+    "essential": 5,
+    "standard": 12,
+    "goods_default": 18,
+    "luxury": 28,
+    "services_default": 18
+  },
+  "intra_state_split": ["CGST", "SGST"],
+  "inter_state_label": "IGST"
+}

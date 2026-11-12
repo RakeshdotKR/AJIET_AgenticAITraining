@@ -1,0 +1,41 @@
+Invoice Processing Guidelines
+Version 1.2 - Effective from 1 April 2026
+Owner: Finance Operations Team
+
+1. PURPOSE
+These guidelines describe how the Accounts Payable team processes vendor
+invoices. All invoices referenced here are synthetic training data.
+
+2. REQUIRED INVOICE FIELDS
+A vendor invoice is valid only if ALL of the following fields are present:
+2.1 Unique invoice number (alphanumeric, max 20 characters)
+2.2 Invoice date in DD-MM-YYYY format
+2.3 Vendor name and vendor GSTIN (15-character GST identification number)
+2.4 Purchase Order (PO) reference number for purchases above Rs. 25,000
+2.5 Description of goods or services with quantity and unit price
+2.6 Taxable value, GST breakdown (CGST, SGST or IGST) and total amount
+2.7 Vendor bank account reference matching the vendor master
+
+3. PROCESSING WORKFLOW
+3.1 Invoice received -> registered in the invoice log with a receipt ID.
+3.2 Field completeness check against section 2 (automated where possible).
+3.3 Three-way match: PO vs GRN vs invoice (see Vendor Payment Policy 3.1).
+3.4 Discrepancy check: price variance, quantity variance, tax calculation.
+3.5 Manager approval for the cost centre, then payment scheduling.
+
+4. DISCREPANCY HANDLING
+4.1 Missing PO reference: hold the invoice, request PO from Procurement.
+4.2 Price variance above 2% of PO price: hold for buyer confirmation.
+4.3 Missing GSTIN: return to vendor; input tax credit cannot be claimed.
+4.4 Duplicate invoice number: reject immediately and notify the vendor.
+4.5 Arithmetic error in totals: recalculate and request a corrected copy.
+
+5. TIMELINES
+5.1 Invoices with no discrepancies are scheduled within 7 working days.
+5.2 Invoices on hold are reviewed weekly; unresolved holds older than
+    30 days are escalated to the Finance Head.
+5.3 All invoice statuses must be updated in the log on the same day.
+
+6. RECORD KEEPING
+Invoices and supporting documents are retained for 8 years as required
+by statutory norms.

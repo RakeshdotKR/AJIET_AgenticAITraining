@@ -1,0 +1,40 @@
+Department Budget Guidelines
+Version 2.3 - Effective from 1 April 2026
+Owner: Finance Operations Team
+
+1. PURPOSE
+These guidelines explain how department budgets are allocated, tracked and
+reviewed. All budget figures used in training are synthetic data.
+
+2. BUDGET ALLOCATION
+2.1 Each department receives an annual budget split into four quarterly
+    allocations at the start of the financial year.
+2.2 Budget is allocated by cost centre; every PO and expense must carry
+    a valid cost centre code.
+2.3 Unspent quarterly amounts do not automatically carry forward; a
+    carry-forward request must be approved by the Budget Controller.
+
+3. UTILISATION FORMULA
+3.1 Budget utilisation percentage = (Total spent / Total budget) x 100.
+3.2 Remaining balance = Total budget - Total spent.
+3.3 Forecast at completion = Total spent + committed but unpaid amounts.
+
+4. MONITORING THRESHOLDS
+4.1 Green: utilisation between 0% and 85% of the elapsed-time target.
+4.2 Amber: utilisation exceeds the elapsed-time target by up to 10
+    percentage points - the Department Head is notified.
+4.3 Red: utilisation exceeds the elapsed-time target by more than 10
+    percentage points - new commitments are frozen until reviewed.
+4.4 A department that has spent more than 90% of its annual budget
+    before the final quarter triggers a mandatory budget review.
+
+5. VARIANCE ANALYSIS
+5.1 Variance = Actual spend - Planned spend for the same period.
+5.2 Variances beyond +/- 10% of plan must be explained in writing by
+    the Department Head within 5 working days.
+5.3 The Finance team publishes a variance report every quarter.
+
+6. QUARTERLY REVIEW
+6.1 Budget review meetings happen in the first week after each quarter ends.
+6.2 Actions from the review (cuts, reallocations, freezes) are recorded
+    and tracked to closure by the Budget Controller.

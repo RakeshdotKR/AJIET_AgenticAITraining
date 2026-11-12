@@ -1,0 +1,41 @@
+{
+  "notes": "Synthetic vendor master for FinDesk tool demonstrations.",
+  "vendors": [
+    {
+      "vendor_id": "VND-001",
+      "name": "Acme Office Supplies",
+      "gstin": "29AACCA1234F1Z5",
+      "payment_terms": "Net-30",
+      "category": "Office Supplies",
+      "approved": true,
+      "contact": "billing@acme-offices.example"
+    },
+    {
+      "vendor_id": "VND-002",
+      "name": "Bright Travel Services",
+      "gstin": "27AABCB9876K1Z2",
+      "payment_terms": "Net-15",
+      "category": "Travel",
+      "approved": true,
+      "contact": "accounts@brighttravel.example"
+    },
+    {
+      "vendor_id": "VND-003",
+      "name": "GlobalTech Systems",
+      "gstin": "29AAECG8888L1Z9",
+      "payment_terms": "Net-45",
+      "category": "IT Services",
+      "approved": true,
+      "contact": "finance@globaltech.example"
+    },
+    {
+      "vendor_id": "VND-004",
+      "name": "City Cab Partners",
+      "gstin": "29AADCC5555M1ZB",
+      "payment_terms": "Net-7",
+      "category": "Transport",
+      "approved": false,
+      "contact": "ops@citycab.example"
+    }
+  ]
+}

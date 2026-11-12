@@ -1,0 +1,40 @@
+{
+  "notes": "Rule-based compliance checks for FinDesk V6 (policy compliance analysis).",
+  "rules": [
+    {
+      "rule_id": "COMP-01",
+      "description": "Every invoice of Rs. 25,000 or more must carry a PO reference.",
+      "source": "Procurement Policy 2.1",
+      "applies_to": "invoice",
+      "check": "invoice_above_25k_requires_po"
+    },
+    {
+      "rule_id": "COMP-02",
+      "description": "Every invoice must carry a vendor GSTIN (needed for input tax credit).",
+      "source": "Invoice Processing Guidelines 2.3",
+      "applies_to": "invoice",
+      "check": "invoice_requires_gstin"
+    },
+    {
+      "rule_id": "COMP-03",
+      "description": "Invoices above Rs. 25,000 require a Goods Receipt Note before payment.",
+      "source": "Procurement Policy 5.2",
+      "applies_to": "invoice",
+      "check": "invoice_above_25k_requires_grn"
+    },
+    {
+      "rule_id": "COMP-04",
+      "description": "Reimbursement receipts are mandatory for expenses of Rs. 500 or more.",
+      "source": "Employee Expense Reimbursement Policy 3.1",
+      "applies_to": "reimbursement",
+      "check": "claim_above_500_requires_receipt"
+    },
+    {
+      "rule_id": "COMP-05",
+      "description": "Reimbursement claims must be submitted within 30 days of the expense date.",
+      "source": "Employee Expense Reimbursement Policy 4.1",
+      "applies_to": "reimbursement",
+      "check": "claim_within_30_days"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "generated_on": "2026-07-15",
+  "currency": "INR",
+  "notes": "Synthetic pending invoices for FinDesk training.",
+  "invoices": [
+    {
+      "invoice_id": "INV-2041",
+      "vendor": "Acme Office Supplies",
+      "invoice_date": "2026-07-02",
+      "po_reference": "PO-1188",
+      "gstin": "29AACCA1234F1Z5",
+      "taxable_value": 48000,
+      "gst_amount": 8640,
+      "total_amount": 56640,
+      "grn_received": true,
+      "cost_centre": "CC-DEPT-A",
+      "status": "pending"
+    },
+    {
+      "invoice_id": "INV-2042",
+      "vendor": "Bright Travel Services",
+      "invoice_date": "2026-07-05",
+      "po_reference": null,
+      "gstin": "27AABCB9876K1Z2",
+      "taxable_value": 32000,
+      "gst_amount": 1600,
+      "total_amount": 33600,
+      "grn_received": true,
+      "cost_centre": "CC-DEPT-A",
+      "status": "pending"
+    },
+    {
+      "invoice_id": "INV-2043",
+      "vendor": "GlobalTech Systems",
+      "invoice_date": "2026-07-08",
+      "po_reference": "PO-1201",
+      "gstin": null,
+      "taxable_value": 185000,
+      "gst_amount": 33300,
+      "total_amount": 218300,
+      "grn_received": false,
+      "cost_centre": "CC-DEPT-A",
+      "status": "pending"
+    },
+    {
+      "invoice_id": "INV-2044",
+      "vendor": "Acme Office Supplies",
+      "invoice_date": "2026-07-10",
+      "po_reference": "PO-1188",
+      "gstin": "29AACCA1234F1Z5",
+      "taxable_value": 52000,
+      "gst_amount": 9360,
+      "total_amount": 61360,
+      "grn_received": true,
+      "cost_centre": "CC-DEPT-A",
+      "status": "pending"
+    },
+    {
+      "invoice_id": "INV-2041",
+      "vendor": "Acme Office Supplies",
+      "invoice_date": "2026-07-12",
+      "po_reference": "PO-1195",
+      "gstin": "29AACCA1234F1Z5",
+      "taxable_value": 15000,
+      "gst_amount": 2700,
+      "total_amount": 17700,
+      "grn_received": true,
+      "cost_centre": "CC-DEPT-A",
+      "status": "pending"
+    }
+  ],
+  "purchase_orders": [
+    { "po_id": "PO-1188", "vendor": "Acme Office Supplies", "approved_amount": 100000 },
+    { "po_id": "PO-1195", "vendor": "Acme Office Supplies", "approved_amount": 20000 },
+    { "po_id": "PO-1201", "vendor": "GlobalTech Systems", "approved_amount": 200000 }
+  ]
+}

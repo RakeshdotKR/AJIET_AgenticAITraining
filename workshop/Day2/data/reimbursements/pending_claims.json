@@ -1,0 +1,59 @@
+{
+  "generated_on": "2026-07-15",
+  "currency": "INR",
+  "notes": "Synthetic pending reimbursement claims for FinDesk training.",
+  "claims": [
+    {
+      "claim_id": "RMB-501",
+      "employee_id": "EMP-101",
+      "employee_name": "Ravi Kumar",
+      "department": "Department A",
+      "category": "Business Travel",
+      "amount": 12000,
+      "submitted_on": "2026-07-03",
+      "receipts_attached": true,
+      "manager_approved": true,
+      "policy_issue": null,
+      "status": "pending_finance"
+    },
+    {
+      "claim_id": "RMB-502",
+      "employee_id": "EMP-104",
+      "employee_name": "Sneha Rao",
+      "department": "Department A",
+      "category": "Client Meeting",
+      "amount": 4200,
+      "submitted_on": "2026-07-06",
+      "receipts_attached": false,
+      "manager_approved": true,
+      "policy_issue": "Receipt mandatory: amount is above Rs. 500",
+      "status": "on_hold"
+    },
+    {
+      "claim_id": "RMB-503",
+      "employee_id": "EMP-107",
+      "employee_name": "Arjun Patel",
+      "department": "Department B",
+      "category": "Hotel Accommodation",
+      "amount": 28500,
+      "submitted_on": "2026-07-09",
+      "receipts_attached": true,
+      "manager_approved": false,
+      "policy_issue": "Awaiting line manager approval",
+      "status": "pending_approval"
+    },
+    {
+      "claim_id": "RMB-504",
+      "employee_id": "EMP-101",
+      "employee_name": "Ravi Kumar",
+      "department": "Department A",
+      "category": "Office Supplies",
+      "amount": 3800,
+      "submitted_on": "2026-06-05",
+      "receipts_attached": true,
+      "manager_approved": true,
+      "policy_issue": "Submitted 40 days after expense (limit is 30 days)",
+      "status": "on_hold"
+    }
+  ]
+}

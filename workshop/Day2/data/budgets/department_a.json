@@ -1,0 +1,17 @@
+{
+  "department": "Department A",
+  "cost_centre": "CC-DEPT-A",
+  "financial_year": "2026-27",
+  "annual_budget": 1000000,
+  "currency": "INR",
+  "quarterly_plan": [
+    { "quarter": "Q1", "planned_spend": 250000 },
+    { "quarter": "Q2", "planned_spend": 250000 },
+    { "quarter": "Q3", "planned_spend": 250000 },
+    { "quarter": "Q4", "planned_spend": 250000 }
+  ],
+  "actual_spend_to_date": 650000,
+  "committed_unpaid": 80000,
+  "period": "Q1-Q2 actual, Q3 in progress",
+  "notes": "Synthetic training data for FinDesk V6 budget analysis."
+}

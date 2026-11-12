@@ -1,0 +1,42 @@
+Corporate Travel Policy
+Version 3.0 - Effective from 1 January 2026
+Owner: Finance Operations Team
+
+1. SCOPE
+This policy applies to all employees travelling on company business. All
+figures are synthetic training data for the FinDesk application.
+
+2. HOTEL ACCOMMODATION LIMITS
+2.1 Domestic travel - metro cities (Delhi, Mumbai, Bengaluru, Chennai,
+    Kolkata, Hyderabad, Pune):
+    Maximum hotel expense is Rs. 6,000 per night (room rate only).
+2.2 Domestic travel - non-metro cities:
+    Maximum hotel expense is Rs. 4,500 per night (room rate only).
+2.3 International travel:
+    Maximum hotel expense is USD 150 per night for most countries and
+    USD 200 per night for high-cost cities (London, New York, Tokyo,
+    Singapore, Zurich).
+2.4 Taxes and service charges are reimbursed in addition to the room
+    rate when printed on the hotel invoice.
+
+3. DAILY PER DIEM
+3.1 Meals and incidentals for domestic travel: Rs. 1,500 per day.
+3.2 Meals and incidentals for international travel: USD 60 per day.
+3.3 Per diem is paid automatically; receipts for meals are not required.
+
+4. TRANSPORT
+4.1 Economy class air travel is mandatory for flights under 6 hours.
+4.2 Business class requires VP approval and flights over 8 hours.
+4.3 Local transport: app-based cabs are preferred; auto and metro are
+    reimbursed at actual cost with receipts.
+
+5. BOOKING RULES
+5.1 All bookings must be made through the approved travel portal.
+5.2 Advance booking at least 7 days before departure saves cost and is
+    encouraged; last-minute bookings need manager justification.
+5.3 Changes and cancellations must be reported to Finance within 24 hours.
+
+6. EXCEPTIONS
+Any amount above the limits in section 2 requires written approval from
+the Department Head before the booking is made. Retroactive approvals
+are granted only in genuine emergencies.

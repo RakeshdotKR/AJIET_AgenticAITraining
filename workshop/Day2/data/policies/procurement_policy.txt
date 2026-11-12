@@ -1,0 +1,42 @@
+Procurement Policy
+Version 2.0 - Effective from 1 March 2026
+Owner: Finance Operations Team
+
+1. SCOPE
+This policy covers purchase of goods and services by all departments.
+All thresholds below are synthetic training data.
+
+2. PURCHASE ORDER REQUIREMENTS
+2.1 A Purchase Order (PO) is mandatory for every purchase of Rs. 25,000
+    or more. Purchases below Rs. 25,000 may use a petty-cash voucher.
+2.2 POs must state: item description, quantity, unit price, total amount,
+    GSTIN of the vendor, delivery date and cost centre code.
+2.3 Retrospective POs (goods received before the PO was issued) are
+    allowed only once per vendor per quarter with Finance Head approval.
+
+3. COMPETITIVE QUOTES
+3.1 Purchases from Rs. 25,000 to Rs. 2,00,000 require at least two
+    written quotations.
+3.2 Purchases above Rs. 2,00,000 require at least three written
+    quotations and a comparative statement.
+3.3 Single-source purchase is allowed only when the vendor is on the
+    approved proprietary list or the item is a genuine sole-source item,
+    with written justification from the Department Head.
+
+4. APPROVED VENDOR LIST
+4.1 Vendors must be on the Approved Vendor List (AVL) before a PO is
+    issued. New vendors require a due-diligence check by Procurement.
+4.2 Vendor performance is reviewed twice a year: delivery timeliness,
+    quality and invoice accuracy.
+
+5. RECEIPT AND ACCEPTANCE
+5.1 Goods must be inspected within 3 working days of delivery.
+5.2 A Goods Receipt Note (GRN) is raised after inspection; the GRN is
+    required for the three-way match before payment.
+5.3 Service purchases require a signed acceptance note from the
+    requesting manager.
+
+6. DEPARTMENT BUDGET LINKAGE
+6.1 Every PO must carry a valid cost centre and budget code.
+6.2 If the department's budget utilisation is already above 90%, new POs
+    need additional approval from the Budget Controller.
