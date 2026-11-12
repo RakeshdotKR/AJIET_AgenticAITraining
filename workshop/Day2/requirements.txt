@@ -1,0 +1,26 @@
+# FinDesk - Day 2 (Sessions 4-6)
+# Python 3.12+ recommended (tested on 3.13)
+#
+# Install with:  pip install -r requirements.txt
+# (Same procedure as Day 1 - create/activate the venv inside Day2/ first.)
+
+# Core frameworks
+langchain>=1.0
+langchain-core>=1.0
+langgraph>=1.0
+
+# Model providers (both supported - switch between them in .env)
+langchain-ollama>=1.0            # ChatOllama / OllamaEmbeddings - local models
+langchain-google-genai>=3.0      # ChatGoogleGenerativeAI / GoogleGenerativeAIEmbeddings
+
+# RAG stack (Session 4)
+langchain-text-splitters>=1.0    # RecursiveCharacterTextSplitter - chunking
+langchain-chroma>=1.0            # Chroma vector store integration
+chromadb>=0.5                    # ChromaDB vector database
+
+# Checkpointing (Session 5) - only needed when CHECKPOINTER=sqlite in .env
+langgraph-checkpoint-sqlite>=2.0 # SqliteSaver
+
+# Utilities
+python-dotenv>=1.0               # loads .env into environment variables
+pydantic>=2.0                    # structured outputs / validation
